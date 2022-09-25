@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Homework2_1.py
